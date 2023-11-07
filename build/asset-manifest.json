@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/online-experiences/static/css/main.23b79740.css",
-    "main.js": "/online-experiences/static/js/main.e2bcf8ee.js",
+    "main.css": "/online-experiences/static/css/main.8bfd33b5.css",
+    "main.js": "/online-experiences/static/js/main.f1397e3f.js",
     "static/js/787.27d3649c.chunk.js": "/online-experiences/static/js/787.27d3649c.chunk.js",
     "static/media/photo-grid.png": "/online-experiences/static/media/photo-grid.294d59b66b94e0e456cf.png",
     "static/media/mountain-bike.png": "/online-experiences/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
@@ -9,12 +9,12 @@
     "static/media/katie-zaferes.png": "/online-experiences/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
     "static/media/airbnb-logo.png": "/online-experiences/static/media/airbnb-logo.e4424517383d14a03a24.png",
     "index.html": "/online-experiences/index.html",
-    "main.23b79740.css.map": "/online-experiences/static/css/main.23b79740.css.map",
-    "main.e2bcf8ee.js.map": "/online-experiences/static/js/main.e2bcf8ee.js.map",
+    "main.8bfd33b5.css.map": "/online-experiences/static/css/main.8bfd33b5.css.map",
+    "main.f1397e3f.js.map": "/online-experiences/static/js/main.f1397e3f.js.map",
     "787.27d3649c.chunk.js.map": "/online-experiences/static/js/787.27d3649c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23b79740.css",
-    "static/js/main.e2bcf8ee.js"
+    "static/css/main.8bfd33b5.css",
+    "static/js/main.f1397e3f.js"
   ]
 }
